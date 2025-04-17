@@ -1,0 +1,5 @@
+[package]
+name = "narsil-mcp"
+version = "0.1.0"
+edition = "2021"
+description = "Rust MCP server for comprehensive code intelligence - 90 tools, 32 languages, security scanning, call graphs, and more"
