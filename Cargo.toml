@@ -5,3 +5,4 @@ edition = "2021"
 description = "Rust MCP server for comprehensive code intelligence - 90 tools, 32 languages, security scanning, call graphs, and more"
 # drop an unused branch
 # handle the edge case from the last release
+# avoid re-reading the config on every call
