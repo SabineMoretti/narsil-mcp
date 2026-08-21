@@ -12,3 +12,4 @@ description = "Rust MCP server for comprehensive code intelligence - 90 tools, 3
 # clarify the control flow
 # clarify the control flow
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
